@@ -118,7 +118,37 @@
   border-radius: 0.5rem;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
 }
+.PostsUserPage-list {
+  padding: 20px;
 
+  .iframe_pdf {
+    display: none;
+  }
+
+  .PostsUserPage-discussion {
+    a {
+      font-size: 18px;
+      font-style: normal;
+    }
+  }
+
+  .item-user {
+    .badges {
+      display: none;
+    }
+
+    .PostUser-avatar {
+      display: none;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .Post {
+      padding-left: 0px;
+      margin-left: 0px;
+    }
+  }
+}
 /* .Post-body {
   overflow: visible !important;
 } */
@@ -469,64 +499,6 @@
     font-weight: normal;
     line-height: 1.5em;
   }
-}
-
-.PostStream {
-  margin-top: 0px;
-}
-
-.DiscussionPage-stream {
-  padding-left: 20px;
-}
-
-.PostStream-item[data-number="1"] {
-  /* .item-user,
-  .item-guest-user {
-    display: none !important;
-  } */
-  .Post-body {
-    margin-bottom: 15px;
-  }
-
-  .item-user,
-  .item-guest-user {
-    position: absolute;
-    bottom: 20px;
-    right: 20px;
-    width: 120px;
-    text-align: right;
-
-    .badges {
-      display: none;
-    }
-
-    .Avatar {
-      width: 32px;
-      height: 32px;
-      line-height: 32px;
-      margin-right: 10px;
-      border-radius: 6px;
-      left: 0px;
-      position: relative !important;
-      --size: 48px;
-    }
-
-    .username {
-      font-size: 12px;
-      font-weight: 500;
-      color: #135da2;
-    }
-
-    .UserOnline {
-      display: none;
-    }
-  }
-
-  .item-edited {
-    display: none;
-  }
-
-
 }
 
 .TextEditor-guestFields {
