@@ -50,7 +50,7 @@ export default function () {
 
         title.add(
             'Title_text_p',
-            <div>{app.translator.trans('block-cat-default.forum.editor_text')}</div>,
+            <div>{app.translator.trans('editor-extensie.forum.editor_text')}</div>,
             100
         );
 
