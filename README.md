@@ -34,7 +34,3 @@ composer require vascan/editor
 ## Etichete
 
 ![Etichete!](/resources/images_readme/etichete.jpg "Etichete")
-
-### Links
-
-- [Packagist](https://packagist.org/packages/vascan/editor)
