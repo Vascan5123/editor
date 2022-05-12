@@ -12,11 +12,17 @@ Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-mark
 composer require vascan/editor
 ```
 
-### Updating
+## Composer UI
 
-```sh
-composer update vascan/editor
-```
+![Composer UI!](/resources/images_readme/ui.jpg "Composer UI")
+
+### Composer este un redactor in Flarum. Prin el putem creem sau editem postare.
+
+## Componente in Composer
+
+![options!](/resources/images_readme/options.jpg "options")
+
+### Composer este un redactor in Flarum. Prin el putem creem sau editem postare.
 
 ### Links
 
