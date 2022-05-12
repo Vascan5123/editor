@@ -16,13 +16,24 @@ composer require vascan/editor
 
 ![Composer UI!](/resources/images_readme/ui.jpg "Composer UI")
 
-### Composer este un redactor in Flarum. Prin el putem creem sau editem postare.
+### Composer este un redactor in Flarum. Prin el putem creem sau edităm postare.
 
 ## Componente in Composer
 
 ![options!](/resources/images_readme/options.jpg "options")
 
-### Composer este un redactor in Flarum. Prin el putem creem sau editem postare.
+### 1) Alegem "Titlul discuției"
+### 2) Alegem "Etichete"
+### 3) Formatarea textului și descrierea discuției
+### 4) Publicarea discuției
+
+## Titlul discuției
+
+![titlul!](/resources/images_readme/titlul.jpg "titlul")
+
+## Etichete
+
+![Etichete!](/resources/images_readme/etichete.jpg "Etichete")
 
 ### Links
 
